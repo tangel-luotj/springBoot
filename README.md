@@ -1,2 +1,2 @@
-# springBoot-rabbitmq
-springBoot整合rabbitmq
+# springBoot
+springBoot模版项目
